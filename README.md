@@ -18,13 +18,13 @@ server : le programme serveur
 client : l’interface graphique SDL pour les joueur
 
 Lancement automatique du serveur et des clients
-Un script run_game_mac.sh est fourni pour démarrer automatiquement le serveur et les quatre clients.
+Un script run_game.sh est fourni pour démarrer automatiquement le serveur et les quatre clients.
 
 Avant de l’exécuter, assurez-vous qu’il est exécutable :
-chmod +x run_game_mac.sh
+chmod +x run_game.sh
 
 Puis lancez le jeu avec :
-./run_game_mac.sh
+./run_game.sh
 
 Le script ouvre cinq terminaux : un pour le serveur et un pour chaque joueur (Alice, Bob, Carol, Dave), avec des ports dédiés.
 
