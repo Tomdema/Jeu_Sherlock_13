@@ -42,6 +42,7 @@ Chaque client doit s'exécuter dans un terminal distinct, car il ouvre une inter
 
 
 Lancer le jeu SH13 (Linux)
+
 Voici la procédure détaillée pour exécuter le jeu sur un système Linux.
 
 Avant de compiler le projet, vous devez installer les bibliothèques SDL nécessaires. Ouvrez un terminal et tapez la commande suivante :
