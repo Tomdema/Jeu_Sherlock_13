@@ -26,7 +26,7 @@ chmod +x run_game.sh
 Puis lancez le jeu avec :
 ./run_game.sh
 
-Le script ouvre cinq terminaux : un pour le serveur et un pour chaque joueur (Alice, Bob, Carol, Dave), avec des ports dédiés.
+Le script ouvre cinq terminaux : un pour le serveur et un pour chaque joueur (Tom-Dema, Eyadema, Eya-Tom, Wiyao), avec des ports dédiés.
 
 Réinitialisation du projet
 Avant de relancer une session, vous pouvez nettoyer les fichiers précédents avec :
